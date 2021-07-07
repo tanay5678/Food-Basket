@@ -2,6 +2,10 @@
 
 Add your snacks to the cart
 
+# App Link 
+https://food-basket-1f2b5.web.app/
+
+
 # Features 
 <ul>
   <li> Add your snack to the basket with one click </li>
@@ -9,13 +13,10 @@ Add your snacks to the cart
   <li> Add your desired Qty</li>
   <li> Empty the cart with one click </li>
   <li>Shows the total cost of your all items </li>
- 
+</ul>
 
-
-
-
-
-
+# Language & Framework
+HTML, CSS, JSX, React, Material UI, FontAwesome, Firebase
 
 
 
