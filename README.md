@@ -1,3 +1,24 @@
+# Food Basket App
+
+Add your snacks to the cart
+
+# Features 
+<ul>
+  <li> Add your snack to the basket with one click </li>
+  <li> Add or remove your item from the cart </li>
+  <li> Add your desired Qty</li>
+  <li> Empty the cart with one click </li>
+  <li>Shows the total cost of your all items </li>
+ 
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
